@@ -5,6 +5,7 @@ Build by:
 
 ## Team Members
 ## Akash Fredric J.
+## Radhika Omkar. 
 ## Farhad.
 ## Lyby Thomas.
 ## Aneesha.
